@@ -1,1 +1,1 @@
-<img src="../TestWork4Sber/img/img.png">
+<img src="../img/scr1.jpg">
